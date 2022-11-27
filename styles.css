@@ -1,0 +1,114 @@
+* {
+  font-family: 'Noto Serif Khojki';
+}
+
+.colors {
+  border: 3px black solid;
+  padding: 15px;
+  width: 95%;
+  margin-bottom: 2.5px;
+}
+
+.color-specifics {
+  display: inline-block;
+}
+
+.mint {
+  background-color: #b4fa8c;
+  padding: 3px;
+  text-align: center;
+}
+
+.sunset {
+  background-color: #f79d28;
+  padding: 3px;
+  text-align: center;
+}
+
+.eggshell {
+  background-color: #e8edd3;
+  padding: 3px;
+  text-align: center;
+}
+
+.rust {
+  background-color: #e85427;
+  padding: 3px;
+  text-align: center;
+}
+
+.fonts {
+  border: 3px black solid;
+  padding: 15px;
+  width: 95%;
+  margin-top: 2.5px;
+  margin-bottom: 2.5px;
+}
+
+.alexandria-header {
+  text-decoration: underline;
+  font-family: 'Alexandria';
+}
+
+#alexandria-normal {
+  font-family: 'Alexandria';
+}
+
+#alexandria-bold {
+  font-family: 'Alexandria';
+  font-weight: bold;
+}
+
+#alexandria-italic {
+  font-family: 'Alexandria';
+  font-style: italic;
+}
+
+.oswald-header {
+  font-family: 'Oswald';
+  text-decoration: underline;
+}
+
+#oswald-normal {
+  font-family: 'Oswald';
+}
+
+#oswald-bold {
+  font-family: 'Oswald';
+  font-weight: bold;
+}
+
+#oswald-italic {
+  font-family: 'Oswald';
+  font-style: italic;
+}
+
+.poppins-header {
+  font-family: 'Poppins';
+  text-decoration: underline;
+}
+
+#poppins-normal {
+  font-family: 'Poppins';
+}
+
+#poppins-bold {
+  font-family: 'Poppins';
+  font-weight: bold;
+}
+
+#poppins-italic {
+  font-family: 'Poppins';
+  font-style: italic;
+}
+
+.styles {
+  border: 3px black solid;
+  padding: 15px;
+  width: 95%;
+  margin-top: 2.5px;
+}
+
+h2 {
+  font-style: bold;
+}
